@@ -1,7 +1,7 @@
 site_name: The Epic Antcar Blog
 repo_url: https://github.com/antcar0929/blogger
 edit_uri: edit/master/
-site_dir: /
+site_dir: ~
 site_author: Antcar
 copyright: Antcar Ent. LLC
 
