@@ -1,17 +1,8 @@
-site_name: The Epic Antcar Blog
-repo_url: https://github.com/antcar0929/blogger
-edit_uri: edit/main/files
-docs_dir: 'files'
-site_author: Antcar
-copyright: Antcar Ent. LLC
-
-
-#It's nav time
-nav:
-    - Introduction: 'intro.md'
-    - 'about.md'
-    - 'Issue Tracker': 'https://example.com/'
-
-# Configuration
+site_name: Antcar's Blogger
 theme:
   name: material
+  palette:
+    scheme: blue
+nav:
+    - 'index.md'
+    - 'about.md'
