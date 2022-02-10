@@ -1,4 +1,4 @@
-# **Antcar**
+# Antcar
 
 Hi there handsome boys and beautiful girls, you're now looking at the profile of the handsomest boy in the entire universe.
 
@@ -10,9 +10,10 @@ Hi there handsome boys and beautiful girls, you're now looking at the profile of
 
 ??? note
 
-	Small tip : navagate this through the menu on right side!
+	Small tip : navagate this through the menu on left side!
 
 It's [sirius](https://harrypotter.fandom.com/wiki/Sirius_Black) time.
+
 
 # About Me
 
