@@ -8,3 +8,4 @@ Hi there handsome boys and beautiful girls, you're now looking at the profile of
 	1. Antcar is ugly
 	2. Antcar sucks at tower of hail
 
+> Small tip : navagate this through the menu on left side!
