@@ -12,6 +12,7 @@ nav:
     - 'about.md'
     - 'profile.md'
 extra:
+  generator: false
   alternate:
     - name: English
       link: /en/ 
@@ -19,5 +20,5 @@ extra:
     - name: 繁體中文
       link: /zh/ 
       lang: zh
-   generator: false
+   
 copyright: Copyright &copy; &curyear Antcar
