@@ -23,5 +23,8 @@ extra:
 
 markdown_extensions:
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
   
 copyright: Copyright &copy; &curyear Antcar
