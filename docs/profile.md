@@ -25,4 +25,26 @@ I've been developing Roblox experiences for the past 2 years. I love designing e
 
 # Somethin' to see
 
-So now you know me, lets see some
+So now you know me, lets see some real examples of me doing things.
+
+## UIs
+
+I've made a LOT of UIs which cares UXs here are some examples I made:
+
+### Color selector
+![Colorselector](https://ibb.co/pKzmxPB)
+
+### Yay cute
+
+![not](https://cdn.discordapp.com/attachments/790914835545194558/941348001597784074/unknown.png)
+
+## Teleport to friends
+![tp](https://cdn.discordapp.com/attachments/790914835545194558/941348247832772608/unknown.png)
+
+## Asset info
+![AI](https://cdn.discordapp.com/attachments/790914835545194558/941348438929448990/unknown.png)
+
+## animated
+Fuck it i lost the file
+anyways here is a ss of static figma file
+![an](https://cdn.discordapp.com/attachments/790914835545194558/941351600658722857/unknown.png)
