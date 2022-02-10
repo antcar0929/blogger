@@ -10,7 +10,7 @@ Hi there handsome boys and beautiful girls, you're now looking at the profile of
 
 ??? note
 
-	Small tip : navagate this through the menu on left side!
+	Small tip : navagate this through the menu on right side!
 
 It's [sirius](https://harrypotter.fandom.com/wiki/Sirius_Black) time.
 
