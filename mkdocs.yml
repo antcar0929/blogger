@@ -27,7 +27,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 plugins:
-  - social
+  - social:
       cards_color:
         fill: "#03c2fc" 
         text: "#FFFFFF"
