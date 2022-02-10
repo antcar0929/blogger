@@ -2,8 +2,9 @@ site_name: Antcar's Blogger
 theme:
   name: material
   palette:
-    scheme: blue
-    accent: blue
+    scheme: slate
+    primary: cyan
+    
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -25,6 +26,10 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
+plugins:
+  - social
+      cards_color:
+        fill: "#03c2fc" 
+        text: "#FFFFFF"
   
 copyright: Copyright &copy; &curyear Antcar
