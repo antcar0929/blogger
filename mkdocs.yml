@@ -20,5 +20,8 @@ extra:
     - name: 繁體中文
       link: /zh/ 
       lang: zh
-   
+
+markdown_extensions:
+  - admonition
+  
 copyright: Copyright &copy; &curyear Antcar
