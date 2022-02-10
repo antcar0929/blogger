@@ -9,7 +9,6 @@ theme:
     - navigation.tabs
 nav:
     - 'index.md'
-    - 'about.md'
     - 'profile.md'
 extra:
   generator: false
