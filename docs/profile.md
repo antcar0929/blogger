@@ -1,4 +1,7 @@
-hide:
+---
+title: Profile
+description: Antcar a.k.a. antcar0929's profile for job requesting.
+---
 
 # Antcar
 
@@ -48,3 +51,8 @@ I've made a LOT of UIs which cares UXs here are some examples I made:
 Fuck it i lost the file
 anyways here is a ss of static figma file
 ![an](https://cdn.discordapp.com/attachments/790914835545194558/941351600658722857/unknown.png)
+
+## UXs
+I am very skilled to create great UXs to keep players
+
+Sadly i have no examples for it.
