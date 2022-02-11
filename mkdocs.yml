@@ -24,6 +24,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
+  - toc:
+      permalink: true
   
 copyright: Copyright &copy; &curyear Antcar
