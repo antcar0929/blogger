@@ -7,6 +7,9 @@ theme:
     
   features:
     - navigation.tabs
+    
+  font:
+    text: Fredoka One
 nav:
     - 'index.md'
     - 'profile.md'
