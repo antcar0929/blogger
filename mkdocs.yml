@@ -25,7 +25,15 @@ extra:
     - name: 繁體中文
       link: /zh/ 
       lang: zh
-
+  
+  consent:
+    title: Cookie eatie
+    description: >- 
+      Antcar loves cookies, and he need yours!
+      He needs cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether others
+      find what they're searching for! (Tip: eat chips ahoy!)
+      
 markdown_extensions:
   - admonition
   - pymdownx.details
