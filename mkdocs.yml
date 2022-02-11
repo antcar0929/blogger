@@ -7,6 +7,9 @@ theme:
     
   features:
     - navigation.tabs
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
     
   font:
     text: Fredoka One
