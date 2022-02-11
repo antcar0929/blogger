@@ -1,6 +1,8 @@
 ---
 title: Profile
 description: Antcar a.k.a. antcar0929's profile for job requesting.
+hide:
+    - navigation
 ---
 
 # Antcar
